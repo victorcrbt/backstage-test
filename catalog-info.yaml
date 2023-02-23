@@ -37,4 +37,4 @@ spec:
   domain: test
   lifecycle: production
   definition:
-    $text: https://github.com/victorcrbt/backstage-test/-/blob/develop/swagger.yaml
+    $text: https://github.com/victorcrbt/backstage-test/blob/main/swagger.yaml
