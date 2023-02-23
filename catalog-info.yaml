@@ -11,7 +11,7 @@ metadata:
     - javascript
     - express
 spec:
-  type: service
+  type: sensedia-component
   owner: me
   system: ms-test-core
   domain: test
@@ -31,7 +31,7 @@ metadata:
   tags:
     - rest
 spec:
-  type: openapi
+  type: sensedia-api
   owner: me
   system: ms-test-core
   domain: test
