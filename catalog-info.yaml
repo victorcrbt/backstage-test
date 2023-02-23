@@ -1,6 +1,6 @@
 # Component entity
 apiVersion: backstage.io/v1alpha1
-kind: Component
+kind: TestKind
 metadata:
   name: ms-test
   title: test
