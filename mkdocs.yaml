@@ -1,0 +1,7 @@
+site_name: MS
+site_description: Microsserviço.
+
+nav:
+
+plugins:
+  - techdocs-core
