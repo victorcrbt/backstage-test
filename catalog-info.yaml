@@ -1,0 +1,40 @@
+# Component entity
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: ms-test
+  title: test
+  description: Microsserviço Teste
+  annotations:
+    backstage.io/techdocs-ref: dir:.
+  tags:
+    - javascript
+    - express
+spec:
+  type: service
+  owner: me
+  system: ms-test-core
+  domain: test
+  lifecycle: production
+  dependsOn:
+    - resource:db-test-core
+  providesApis:
+    - ms-test-api
+---
+# API entity
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: ms-test-api
+  title: test
+  description: API teste do backstage.
+  tags:
+    - rest
+spec:
+  type: openapi
+  owner: me
+  system: ms-test-core
+  domain: test
+  lifecycle: production
+  definition:
+    $text: https://github.com/victorcrbt/backstage-test/-/blob/develop/swagger.yaml
