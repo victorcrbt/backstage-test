@@ -1,4 +1,7 @@
-[!include main.css!]
+[//]: # 'start include'
+
+<link rel="stylesheet" type="text/css" href="main.css">
+[//]: # (end include)
 
 # This is an Updated Test Doc
 
