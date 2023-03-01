@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="extra.css" />
+[include](main.css)
 
 # This is an Updated Test Doc
 

@@ -9,3 +9,6 @@ extra_css: [extra.css]
 plugins:
   - techdocs-core
   - kroki
+
+markdown_extensions:
+  - include:
