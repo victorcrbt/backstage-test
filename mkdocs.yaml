@@ -4,6 +4,9 @@ site_description: 'Teste.'
 nav:
   - Início: 'index.md'
 
+extra_css:
+  - css/extra.css
+
 plugins:
   - techdocs-core
   - kroki
