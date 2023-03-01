@@ -1,4 +1,4 @@
-[!include "main.css"!]
+[include](main.css)
 
 # This is an Updated Test Doc
 
