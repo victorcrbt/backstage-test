@@ -11,4 +11,4 @@ plugins:
   - kroki
 
 markdown_extensions:
-  - include:
+  - markdown_include.include
