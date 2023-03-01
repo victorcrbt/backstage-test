@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="/css/extra.css" />
+<link rel="stylesheet" href="extra.css" />
 
 # This is an Updated Test Doc
 
