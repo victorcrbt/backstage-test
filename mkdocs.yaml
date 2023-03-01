@@ -1,7 +1,9 @@
-site_name: MS
-site_description: Microsserviço.
+site_name: 'Tech Guides'
+site_description: 'Teste.'
 
 nav:
+  - Início: 'index.md'
 
 plugins:
   - techdocs-core
+  - kroki
