@@ -2,11 +2,8 @@ site_name: 'Tech Guides'
 site_description: 'Teste.'
 
 nav:
-  - Início: index.html
+  - Início: main.md
 
 plugins:
   - techdocs-core
   - kroki
-
-markdown_extensions:
-  markdown_include.include:
