@@ -2,12 +2,8 @@ site_name: 'Tech Guides'
 site_description: 'Teste.'
 
 nav:
-  - Início: 'index.md'
+  - Início: index.html
 
 plugins:
   - techdocs-core
   - kroki
-  - macros
-
-site_css:
-  default: main.css
