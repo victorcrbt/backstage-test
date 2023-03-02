@@ -2,7 +2,7 @@ site_name: 'Tech Guides'
 site_description: 'Teste.'
 
 nav:
-  - Início: main.md
+  - Início: index.md
 
 plugins:
   - techdocs-core
