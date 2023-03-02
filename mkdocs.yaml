@@ -7,14 +7,7 @@ nav:
 plugins:
   - techdocs-core
   - kroki
-  - pymdownx.markdown:
-      markdown_extensions:
-        - extra
-        - def_list
-        - smarty
-        - toc
-        - attr_list
-        - meta
-        - fenced_code
-        - tables
-        - codehilite(guess_lang=False, css_class=highlight)
+  - mkdocs-macros-plugin
+
+site_css:
+  default: main.css
