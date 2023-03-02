@@ -7,3 +7,6 @@ nav:
 plugins:
   - techdocs-core
   - kroki
+
+markdown_extensions:
+  markdown_include.include:
