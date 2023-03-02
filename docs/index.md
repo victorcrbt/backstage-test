@@ -1,3 +1,5 @@
+{!main.css!}
+
 <h1>RD API Playbook</h1>
 <p>Se você é novo em APIs e integrações, este é um ótimo ponto de partida. Se você já está familiarizado com os conceitos básicos, pode usar este documento como referência para gerenciar o acesso às suas APIs e integrações.</p>
 
