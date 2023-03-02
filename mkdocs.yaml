@@ -11,4 +11,5 @@ plugins:
   - kroki
 
 markdown_extensions:
-  - markdown_include.include
+  - markdown_include.include:
+    base_path: docs
