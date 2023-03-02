@@ -7,7 +7,7 @@ nav:
 plugins:
   - techdocs-core
   - kroki
-  - mkdocs-macros-plugin
+  - macros
 
 site_css:
   default: main.css
