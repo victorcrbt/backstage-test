@@ -2,9 +2,9 @@ site_name: 'Tech Guides'
 site_description: 'Teste.'
 
 nav:
-  - Início: index.md
-    - Princípios da Governança de APIs:
-      - Aplicar os Princípios Universalmente: apis-governance-principles/apply-principles-globally.md
+  - Início: 'index.md'
+  - Princípios da Governança de APIs:
+      - Aplicar os Princípios Universalmente: 'apis-governance-principles/apply-principles-globally.md'
 
 plugins:
   - techdocs-core
