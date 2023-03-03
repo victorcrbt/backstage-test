@@ -79,7 +79,7 @@
 <h3 class="highlighted-title">▶️️ 1 - Onboarding</h3>
 <p>O processo de Onboarding é a porta de entrada para as demandas de integração. Nesse momento, é possível entender as necessidades do time, alinhar expectativas e orientar as melhores práticas de integração. <a href="#">Para detalhes.</a></p>
 
-- <strong>Solicitação de Acesso ao Sensedia API Manager:</strong> Através do Sensedia API Manager, é possível gerenciar suas APIs, monitorar seu tráfego, aplicar políticas de segurança e muito mais. Para solicitar acesso, basta preencher pelo <strong>ServiceNow<strong> as informações necessárias. Após a análise de sua solicitação, um representante da Arquitetura de Integração entrará em contato para fornecer as próximas etapas para acesso ao Sensedia API Manager. Não se preocupe, todo o processo é rápido e fácil.
+- <strong>Solicitação de Acesso ao Sensedia API Manager:</strong> Através do Sensedia API Manager, é possível gerenciar suas APIs, monitorar seu tráfego, aplicar políticas de segurança e muito mais. Para solicitar acesso, basta preencher pelo <strong>ServiceNow</strong> as informações necessárias. Após a análise de sua solicitação, um representante da Arquitetura de Integração entrará em contato para fornecer as próximas etapas para acesso ao Sensedia API Manager. Não se preocupe, todo o processo é rápido e fácil.
 
 - <strong>Análise de dados:</strong> Nessa fase, será realizada a análise das informações coletadas. A partir disso, é possível identificar as necessidades e demandas do time.
 - <strong>Elaboração de plano de trabalho:</strong> Com base nas informações coletadas e na análise dos dados, será elaborado o plano de trabalho que guiará todo o processo de integração.
@@ -237,7 +237,7 @@
 
   <a href="#" class="card" style=" border: 1px solid #e5e5e5; display: flex; flex-direction: column; text-decoration: inherit; color: inherit;">
     <div class="preview"style="height: 200px; border-bottom: 1px solid #e5e5e5;"></div>
-    <div style="padding: 12px; display: flex;">
+    <div style="padding: 12px; display: flex;">ser
       <h4 class="title" style="padding: 0; margin: 0;">▶️ Capacitação e Apoio consultivo</h4>
     </div>
   </a>
