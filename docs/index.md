@@ -17,48 +17,58 @@
 
 <div class="cards-wrapper" style="display: grid; grid-template-columns: repeat(3, 1fr); grid-gap: 16px;">
   <a href="#" class="card" style=" border: 1px solid #e5e5e5; display: flex; flex-direction: column; text-decoration: inherit; color: inherit;">
+    <div class="preview"style="height: 200px; border-bottom: 1px solid #e5e5e5;">
+      <iframe src="/apis-governance-principles/apply-principles-globally.html" width="100%" height="200px"></iframe>
+    </div>
     <div style="padding: 12px; display: flex;">
       <h4 class="title" style="padding: 0; margin: 0;">🧭 Aplicar os Princípios Universalmente</h4>
     </div>
   </a>
 
   <a href="#" class="card" style=" border: 1px solid #e5e5e5; display: flex; flex-direction: column; text-decoration: inherit; color: inherit;">
+    <div class="preview"style="height: 200px; border-bottom: 1px solid #e5e5e5;"></div>
     <div style="padding: 12px; display: flex;">
       <h4 class="title" style="padding: 0; margin: 0;">🧭 Gerenciar Exceções Arquiteturais Corporativas</h4>
     </div>
   </a>
 
   <a href="#" class="card" style=" border: 1px solid #e5e5e5; display: flex; flex-direction: column; text-decoration: inherit; color: inherit;">
+    <div class="preview"style="height: 200px; border-bottom: 1px solid #e5e5e5;"></div>
     <div style="padding: 12px; display: flex;">
       <h4 class="title" style="padding: 0; margin: 0;">🧭 Governança de API deve promover o alinhamento entre o negócio e a TI</h4>
     </div>
   </a>
 
   <a href="#" class="card" style=" border: 1px solid #e5e5e5; display: flex; flex-direction: column; text-decoration: inherit; color: inherit;">
+    <div class="preview"style="height: 200px; border-bottom: 1px solid #e5e5e5;"></div>
     <div style="padding: 12px; display: flex;">
       <h4 class="title" style="padding: 0; margin: 0;">🧭 Contrato da API compliance com o negócio</h4>
     </div>
   </a>
 
   <a href="#" class="card" style=" border: 1px solid #e5e5e5; display: flex; flex-direction: column; text-decoration: inherit; color: inherit;">
+    <div class="preview"style="height: 200px; border-bottom: 1px solid #e5e5e5;"></div>
     <div style="padding: 12px; display: flex;">
       <h4 class="title" style="padding: 0; margin: 0;">🧭 Padronização com Arquitetura da API</h4>
     </div>
   </a>
 
   <a href="#" class="card" style=" border: 1px solid #e5e5e5; display: flex; flex-direction: column; text-decoration: inherit; color: inherit;">
+    <div class="preview"style="height: 200px; border-bottom: 1px solid #e5e5e5;"></div>
     <div style="padding: 12px; display: flex;">
       <h4 class="title" style="padding: 0; margin: 0;">🧭 Visibilidade e Rastreabilidade das APIs</h4>
     </div>
   </a>
 
   <a href="#" class="card" style=" border: 1px solid #e5e5e5; display: flex; flex-direction: column; text-decoration: inherit; color: inherit;">
+    <div class="preview"style="height: 200px; border-bottom: 1px solid #e5e5e5;"></div>
     <div style="padding: 12px; display: flex;">
       <h4 class="title" style="padding: 0; margin: 0;">🧭 Reuso de APIs</h4>
     </div>
   </a>
 
   <a href="#" class="card" style=" border: 1px solid #e5e5e5; display: flex; flex-direction: column; text-decoration: inherit; color: inherit;">
+    <div class="preview"style="height: 200px; border-bottom: 1px solid #e5e5e5;"></div>
     <div style="padding: 12px; display: flex;">
       <h4 class="title" style="padding: 0; margin: 0;">🧭 Segurança de dados by design</h4>
     </div>
@@ -115,90 +125,105 @@
 
 <div class="cards-wrapper" style="display: grid; grid-template-columns: repeat(3, 1fr); grid-gap: 16px;">
   <a href="#" class="card" style=" border: 1px solid #e5e5e5; display: flex; flex-direction: column; text-decoration: inherit; color: inherit;">
+    <div class="preview"style="height: 200px; border-bottom: 1px solid #e5e5e5;"></div>
     <div style="padding: 12px; display: flex;">
       <h4 class="title" style="padding: 0; margin: 0;">📌 Diretriz: Contrato de API</h4>
     </div>
   </a>
 
   <a href="#" class="card" style=" border: 1px solid #e5e5e5; display: flex; flex-direction: column; text-decoration: inherit; color: inherit;">
+    <div class="preview"style="height: 200px; border-bottom: 1px solid #e5e5e5;"></div>
     <div style="padding: 12px; display: flex;">
       <h4 class="title" style="padding: 0; margin: 0;">📄 Template: OpenAPI Specification</h4>
     </div>
   </a>
 
   <a href="#" class="card" style=" border: 1px solid #e5e5e5; display: flex; flex-direction: column; text-decoration: inherit; color: inherit;">
+    <div class="preview"style="height: 200px; border-bottom: 1px solid #e5e5e5;"></div>
     <div style="padding: 12px; display: flex;">
       <h4 class="title" style="padding: 0; margin: 0;">🔑 Conceito: Modelagem de APIs por Domínio</h4>
     </div>
   </a>
 
   <a href="#" class="card" style=" border: 1px solid #e5e5e5; display: flex; flex-direction: column; text-decoration: inherit; color: inherit;">
+    <div class="preview"style="height: 200px; border-bottom: 1px solid #e5e5e5;"></div>
     <div style="padding: 12px; display: flex;">
       <h4 class="title" style="padding: 0; margin: 0;">🔑 Prática: Decomposição de Processos de Negócios para Hiperlinks</h4>
     </div>
   </a>
 
   <a href="#" class="card" style=" border: 1px solid #e5e5e5; display: flex; flex-direction: column; text-decoration: inherit; color: inherit;">
+    <div class="preview"style="height: 200px; border-bottom: 1px solid #e5e5e5;"></div>
     <div style="padding: 12px; display: flex;">
       <h4 class="title" style="padding: 0; margin: 0;">🔑 Prática: WebHooks</h4>
     </div>
   </a>
 
   <a href="#" class="card" style=" border: 1px solid #e5e5e5; display: flex; flex-direction: column; text-decoration: inherit; color: inherit;">
+    <div class="preview"style="height: 200px; border-bottom: 1px solid #e5e5e5;"></div>
     <div style="padding: 12px; display: flex;">
       <h4 class="title" style="padding: 0; margin: 0;">🔑 Prática: Design de APIs com Workflows</h4>
     </div>
   </a>
 
   <a href="#" class="card" style=" border: 1px solid #e5e5e5; display: flex; flex-direction: column; text-decoration: inherit; color: inherit;">
+    <div class="preview"style="height: 200px; border-bottom: 1px solid #e5e5e5;"></div>
     <div style="padding: 12px; display: flex;">
       <h4 class="title" style="padding: 0; margin: 0;">📌 Diretriz: Segurança</h4>
     </div>
   </a>
 
   <a href="#" class="card" style=" border: 1px solid #e5e5e5; display: flex; flex-direction: column; text-decoration: inherit; color: inherit;">
+    <div class="preview"style="height: 200px; border-bottom: 1px solid #e5e5e5;"></div>
     <div style="padding: 12px; display: flex;">
       <h4 class="title" style="padding: 0; margin: 0;">🔑 Prática: Estratégia da API</h4>
     </div>
   </a>
 
   <a href="#" class="card" style=" border: 1px solid #e5e5e5; display: flex; flex-direction: column; text-decoration: inherit; color: inherit;">
+    <div class="preview"style="height: 200px; border-bottom: 1px solid #e5e5e5;"></div>
     <div style="padding: 12px; display: flex;">
       <h4 class="title" style="padding: 0; margin: 0;">📄 Template: Especificação de API</h4>
     </div>
   </a>
 
   <a href="#" class="card" style=" border: 1px solid #e5e5e5; display: flex; flex-direction: column; text-decoration: inherit; color: inherit;">
+    <div class="preview"style="height: 200px; border-bottom: 1px solid #e5e5e5;"></div>
     <div style="padding: 12px; display: flex;">
       <h4 class="title" style="padding: 0; margin: 0;">✅ Checklist: Revisão das APIs</h4>
     </div>
   </a>
 
   <a href="#" class="card" style=" border: 1px solid #e5e5e5; display: flex; flex-direction: column; text-decoration: inherit; color: inherit;">
+    <div class="preview"style="height: 200px; border-bottom: 1px solid #e5e5e5;"></div>
     <div style="padding: 12px; display: flex;">
       <h4 class="title" style="padding: 0; margin: 0;">📄 Template: Data MApping</h4>
     </div>
   </a>
 
   <a href="#" class="card" style=" border: 1px solid #e5e5e5; display: flex; flex-direction: column; text-decoration: inherit; color: inherit;">
+    <div class="preview"style="height: 200px; border-bottom: 1px solid #e5e5e5;"></div>
     <div style="padding: 12px; display: flex;">
       <h4 class="title" style="padding: 0; margin: 0;">🔑 Prática: Teste de APIs</h4>
     </div>
   </a>
 
   <a href="#" class="card" style=" border: 1px solid #e5e5e5; display: flex; flex-direction: column; text-decoration: inherit; color: inherit;">
+    <div class="preview"style="height: 200px; border-bottom: 1px solid #e5e5e5;"></div>
     <div style="padding: 12px; display: flex;">
       <h4 class="title" style="padding: 0; margin: 0;">📌 Diretriz: Política de Versionamento de APIs</h4>
     </div>
   </a>
 
   <a href="#" class="card" style=" border: 1px solid #e5e5e5; display: flex; flex-direction: column; text-decoration: inherit; color: inherit;">
+    <div class="preview"style="height: 200px; border-bottom: 1px solid #e5e5e5;"></div>
     <div style="padding: 12px; display: flex;">
       <h4 class="title" style="padding: 0; margin: 0;">🔑 Prática: Indicadores de Negócio de APIs</h4>
     </div>
   </a>
 
   <a href="#" class="card" style=" border: 1px solid #e5e5e5; display: flex; flex-direction: column; text-decoration: inherit; color: inherit;">
+    <div class="preview"style="height: 200px; border-bottom: 1px solid #e5e5e5;"></div>
     <div style="padding: 12px; display: flex;">
       <h4 class="title" style="padding: 0; margin: 0;">🔑 Prática: HATEOAS</h4>
     </div>
@@ -212,36 +237,42 @@
 
 <div class="cards-wrapper" style="display: grid; grid-template-columns: repeat(3, 1fr); grid-gap: 16px;">
   <a href="#" class="card" style=" border: 1px solid #e5e5e5; display: flex; flex-direction: column; text-decoration: inherit; color: inherit;">
+    <div class="preview"style="height: 200px; border-bottom: 1px solid #e5e5e5;"></div>
     <div style="padding: 12px; display: flex;">
       <h4 class="title" style="padding: 0; margin: 0;">▶️ Onboarding de novos times</h4>
     </div>
   </a>
 
   <a href="#" class="card" style=" border: 1px solid #e5e5e5; display: flex; flex-direction: column; text-decoration: inherit; color: inherit;">
+    <div class="preview"style="height: 200px; border-bottom: 1px solid #e5e5e5;"></div>
     <div style="padding: 12px; display: flex;">ser
       <h4 class="title" style="padding: 0; margin: 0;">▶️ Capacitação e Apoio consultivo</h4>
     </div>
   </a>
 
   <a href="#" class="card" style=" border: 1px solid #e5e5e5; display: flex; flex-direction: column; text-decoration: inherit; color: inherit;">
+    <div class="preview"style="height: 200px; border-bottom: 1px solid #e5e5e5;"></div>
     <div style="padding: 12px; display: flex;">
       <h4 class="title" style="padding: 0; margin: 0;">▶️ Revisões e Desenho da Solução</h4>
     </div>
   </a>
 
   <a href="#" class="card" style=" border: 1px solid #e5e5e5; display: flex; flex-direction: column; text-decoration: inherit; color: inherit;">
+    <div class="preview"style="height: 200px; border-bottom: 1px solid #e5e5e5;"></div>
     <div style="padding: 12px; display: flex;">
       <h4 class="title" style="padding: 0; margin: 0;">▶️ Processo de Criação de API no API Sensedia Manager</h4>
     </div>
   </a>
 
   <a href="#" class="card" style=" border: 1px solid #e5e5e5; display: flex; flex-direction: column; text-decoration: inherit; color: inherit;">
+    <div class="preview"style="height: 200px; border-bottom: 1px solid #e5e5e5;"></div>
     <div style="padding: 12px; display: flex;">
       <h4 class="title" style="padding: 0; margin: 0;">▶️ Métricas e Melhoria Contínua</h4>
     </div>
   </a>
 
   <a href="#" class="card" style=" border: 1px solid #e5e5e5; display: flex; flex-direction: column; text-decoration: inherit; color: inherit;">
+    <div class="preview"style="height: 200px; border-bottom: 1px solid #e5e5e5;"></div>
     <div style="padding: 12px; display: flex;">
       <h4 class="title" style="padding: 0; margin: 0;">▶️ Gestão de Exceções</h4>
     </div>
