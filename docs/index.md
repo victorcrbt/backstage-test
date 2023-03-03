@@ -77,7 +77,7 @@
 
 <!-- Onboarding -->
 <h3 class="highlighted-title">▶️️ 1 - Onboarding</h3>
-<p>O processo de Onboarding é a porta de entrada para as demandas de integração. Nesse momento, é possível entender as necessidades do time, alinhar expectativas e orientar as melhores práticas de integração. <a href="#">Para detalhes.</a>
+<p>O processo de Onboarding é a porta de entrada para as demandas de integração. Nesse momento, é possível entender as necessidades do time, alinhar expectativas e orientar as melhores práticas de integração. <a href="#">Para detalhes.</a></p>
 
 - <strong>Solicitação de Acesso ao Sensedia API Manager:</strong> Através do Sensedia API Manager, é possível gerenciar suas APIs, monitorar seu tráfego, aplicar políticas de segurança e muito mais. Para solicitar acesso, basta preencher pelo <strong>ServiceNow<strong> as informações necessárias. Após a análise de sua solicitação, um representante da Arquitetura de Integração entrará em contato para fornecer as próximas etapas para acesso ao Sensedia API Manager. Não se preocupe, todo o processo é rápido e fácil.
 
@@ -97,10 +97,10 @@
 <!-- Fim do Apoio Consultivo e Capacitação -->
 
 <!-- Revisões e Desenho de Solução de Integração -->
-<h3 class="highlighted-title">▶️ 2 - Revisões e Desenho de Solução de Integração (*)</h3>
+<h3 class="highlighted-title">▶ 3 - Revisões e Desenho de Solução de Integração (*)</h3>
 <p>O processo de Revisões e Desenho de Solução de Integração é dedicado a garantir o cadastro dos nossos ativos e planos de melhorias, conforme acordado no Onboarding. Nesse processo, realizamos revisões periódicas para garantir que as soluções estejam de acordo com as melhores práticas de integração. <a href="#">Para Detalhes.</a></p>
 
-- <trong>Identificação de necessidades:</strong> Nessa fase, será realizada uma análise das necessidades do time em relação a habilidades e conhecimentos de integração.
+- <strong>Identificação de necessidades:</strong> Nessa fase, será realizada uma análise das necessidades do time em relação a habilidades e conhecimentos de integração.
 
 - <strong>Elaboração do desenho da solução de integração:</strong> Nesta fase, é importante que a equipe trabalhe com cuidado para desenvolver um desenho detalhado da solução de integração que será implementada. Isso envolve a identificação de todos os requisitos do sistema, bem como a definição da arquitetura geral e dos componentes individuais que farão parte da solução.
 <!-- Fim do Revisões e Desenho de Solução de Integração -->
