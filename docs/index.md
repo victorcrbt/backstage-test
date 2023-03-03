@@ -12,7 +12,7 @@
 <div class="cards-wrapper" style="display: grid; grid-template-columns: repeat(3, 1fr); grid-gap: 16px;">
   <a href="#" class="card" style=" border: 1px solid #e5e5e5; display: flex; flex-direction: column; text-decoration: inherit; color: inherit;">
     <div class="preview"style="height: 200px; border-bottom: 1px solid #e5e5e5;">
-      <iframe src="./apis-governance-principles/apply-principles-globally.md" width="100%" height="200px"></iframe>
+      <iframe src="{{ base_url }}/apis-governance-principles/apply-principles-globally.md" width="100%" height="200px"></iframe>
     </div>
     <div style="padding: 12px; display: flex;">
       <h4 class="title" style="padding: 0; margin: 0;">🧭 Aplicar os Princípios Universalmente</h4>
