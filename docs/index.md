@@ -10,7 +10,7 @@
 <h3>Princípios da Governança RD</h3>
 
 <div class="cards-wrapper" style="display: grid; grid-template-columns: repeat(3, 1fr); grid-gap: 16px;">
-  <a href="/apis-governance-principles/apply-principles-globally" class="card" style=" border: 1px solid #e5e5e5; display: flex; flex-direction: column; text-decoration: inherit; color: inherit;">
+  <a href="./apis-governance-principles/apply-principles-globally" class="card" style=" border: 1px solid #e5e5e5; display: flex; flex-direction: column; text-decoration: inherit; color: inherit;">
     <div style="padding: 12px; display: flex;">
       <h4 class="title" style="padding: 0; margin: 0;">🧭 Aplicar os Princípios Universalmente</h4>
     </div>
