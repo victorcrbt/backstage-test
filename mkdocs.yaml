@@ -1,6 +1,9 @@
 site_name: 'Tech Guides'
 site_description: 'Teste.'
 
+markdown_extensions:
+  - mdx_pandoc:
+
 nav:
   - Início: index.md
   - Princípios da Governança de APIs:
